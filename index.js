@@ -47,3 +47,38 @@ for(var i=0;i<questions.length;i++){
   play(currentQuestion.question,currentQuestion.answer);
 }
 
+
+// E15(with score)
+var readlineSync = require('readline-sync');
+
+var score = 0;
+var userName = readlineSync.question("May I know your name? ");
+console.log("Welcome "+ userName+ "!");
+
+function play(question,answer){
+  var userAnswer = readlineSync.question(question);
+  if (userAnswer.toUpperCase()===answer.toUpperCase()){
+    console.log("You guessed it right! ");
+    score = score + 1;
+    
+  }else{
+    console.log("You guessed it wrong! ");
+  }
+  console.log("score " + score);
+  console.log("-----------")
+}
+
+var questions=[{
+  question:"Who's my favorite Superhero? ",
+  answer:"Superman"
+},{
+  question:"What can be his Costume Color? ",
+  answer:"blue"
+}];
+
+for (var i=0; i < questions.length; i++){
+  var currentQuestion=questions[i];
+  play(currentQuestion.question,currentQuestion.answer);
+}
+
+console.log("Your final score is: " + score);
