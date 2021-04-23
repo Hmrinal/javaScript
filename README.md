@@ -6,6 +6,11 @@ Most of the tools in a programmers toolkit is CLI: github, shell, programming la
 
 Think of it as texting with a program, instead of as we all know the usual clicking of buttons.
 
+- JavaScript is the world's most popular programming language.
+- JavaScript is the programming language of the Web.
+- JavaScript is easy to learn.
+
+
 ### Multiple Commands
 
 Here we have two js files here which are `index.js` and `quiz.js`. We have to use multiple command to run both of them together.
