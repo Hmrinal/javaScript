@@ -11,6 +11,7 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 - JavaScript is the world's most popular programming language.
 - JavaScript is the programming language of the Web.
 - JavaScript is easy to learn.
+- JavaScript Can Change HTML Content
 
 
 ### Multiple Commands
