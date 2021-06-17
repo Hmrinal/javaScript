@@ -14,7 +14,7 @@ JavaScript, often abbreviated as JS, is a programming language that conforms to 
 - JavaScript Can Change HTML Content
 
 ### Why we use JS?
-JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where `HTML and CSS are languages that give structure and style` to web pages, JavaScript gives web pages interactive elements that engage a user.
 
 
 ### Multiple Commands
