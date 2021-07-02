@@ -6,7 +6,9 @@ Most of the tools in a programmers toolkit is CLI: github, shell, programming la
 
 Think of it as texting with a program, instead of as we all know the usual clicking of buttons.
 
-JavaScript, often abbreviated as JS, is a programming language that conforms to the `ECMAScript` specification. JavaScript is high-level, often `just-in-time` compiled, and multi-paradigm.
+JavaScript, often abbreviated as JS, is a dynamic computer programming language that conforms to the `ECMAScript` specification. JavaScript is high-level, often `just-in-time` compiled, and multi-paradigm.
+
+It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages.
 
 - JavaScript is the world's most popular programming language.
 - JavaScript is the programming language of the Web.
