@@ -16,6 +16,11 @@ It is an interpreted programming language with object-oriented capabilities.
 - JavaScript is easy to learn.
 - JavaScript Can Change HTML Content
 
+### Specifications 
+- JS is a lightweight, interpreted programming language.
+- Designed for creating network-centric applications.
+- Complementary to and integrated with Java.
+
 ### Why we use JS? 
 JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.   
 Where `HTML and CSS are languages that give structure and style` to web pages, JavaScript gives web pages `interactive elements` that engage a user.
