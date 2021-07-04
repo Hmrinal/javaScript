@@ -20,6 +20,8 @@ It is an interpreted programming language with object-oriented capabilities.
 - JS is a lightweight, interpreted programming language.
 - Designed for creating network-centric applications.
 - Complementary to and integrated with Java.
+- Complemantary to and integrated with HTML.
+- Open and cross-platform.
 
 ### Why we use JS? 
 JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.   
