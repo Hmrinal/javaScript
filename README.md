@@ -34,3 +34,6 @@ Here we have two js files here which are `index.js` and `quiz.js`. We have to us
 If you have commands that need to run in order, then using a double ampersand  &&  in between those commands will make it so that the preceding command must finish before the next can start.
 
 Make changes in `packages.json`
+
+### Advantages of JavaScript:
+
