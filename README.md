@@ -17,6 +17,7 @@ It is an interpreted programming language with object-oriented capabilities.
 - JavaScript Can Change HTML Content
 
 ### Specifications 
+
 - JS is a lightweight, interpreted programming language.
 - Designed for creating network-centric applications.
 - Complementary to and integrated with Java.
