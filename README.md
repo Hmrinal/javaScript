@@ -39,4 +39,4 @@ Make changes in `packages.json`
 ### Advantages of JavaScript:
 
 - Less server interaction- You can validate user input before sending the page off to the server. This saves server traffic, which means less load on your server.
-
+- Immediate feedback to the visitors- 
