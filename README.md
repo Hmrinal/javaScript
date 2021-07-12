@@ -46,4 +46,4 @@ Make changes in `packages.json`
 ### Limitations of JavaScript:
 
 - Client-side JavaScript does not allow the reading or writing of files. This has been kept for security reason.
-- 
+- JavaScript cannot be used for networking applications because there is no such support available.
