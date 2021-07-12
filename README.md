@@ -44,3 +44,6 @@ Make changes in `packages.json`
 - Increased interactivity- You can create interfaces that react when the user hovers over them with a mouse or activates them via the keyboard.
 
 ### Limitations of JavaScript:
+
+- Client-side JavaScript does not allow the reading or writing of files. This has been kept for security reason.
+- 
