@@ -47,3 +47,4 @@ Make changes in `packages.json`
 
 - Client-side JavaScript does not allow the reading or writing of files. This has been kept for security reason.
 - JavaScript cannot be used for networking applications because there is no such support available.
+- JavaScript doesn't have any multi-threading or multiprocessor capabilities.
