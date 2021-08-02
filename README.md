@@ -19,10 +19,10 @@ It is an interpreted programming language with object-oriented capabilities.
 ### Specifications 
 
 - JS is a lightweight, interpreted programming language.
-- Designed for creating network-centric applications.
+- Designed for creating `network-centric applications`.
 - Complementary to and integrated with Java.
 - Complemantary to and integrated with HTML.
-- Open and cross-platform.
+- Open and `cross-platform`.
 
 ### Why we use JS? 
 
